@@ -2,3 +2,5 @@ Date: Mon Dec 29 11:34:55 2025 | Player: adam | Mode: easy | Status: Abandoned/O
 Date: Mon Dec 29 11:36:41 2025 | Player: adam | Mode: easy | Status: Abandoned/Overwritten
 Date: Mon Dec 29 18:46:23 2025 | Player:  | Mode: adam | Status: Abandoned/Overwritten
 Date: Mon Dec 29 19:04:02 2025 | Player: adam | Mode: easy | Status: Abandoned/Overwritten
+Date: Tue Dec 30 13:25:25 2025 | Player: adam | Mode: 67 | Status: Abandoned/Overwritten
+Date: Tue Dec 30 13:28:45 2025 | Player: Adam | Mode: easy | Status: Abandoned/Overwritten

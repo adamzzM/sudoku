@@ -10,8 +10,8 @@
 #include <limits>
 
 using namespace std;
-using namespace std::chrono; // to use the sleep command easier -> this_thread::sleep_for(chrono::milliseconds(50))
-using namespace this_thread; // to use the sleep command easier -> this_thread::sleep_for(chrono::milliseconds(50))
+using namespace std::chrono;  // sleep for the swag
+using namespace this_thread;
 
 static int extratime = 0;
 static int HintC = 3;
@@ -177,7 +177,7 @@ int main()
             cin.ignore(numeric_limits<streamsize>::max(), '\n');
             switch (ans) {
             case 1:
-                count = 2;
+                count = 40;
                 Diff_Mode = "easy";
                 break;
             case 2:
