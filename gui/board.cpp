@@ -150,7 +150,7 @@ bool board::checkVictory() {
             else if (val % 13 == 0) val /= 13;
             else if (val % 17 == 0) val /= 17;
 
-            if (val != solution[i][j]) {
+            if (val == 0 || !isValid(i,j,val)) {
                 return false;
             }
         }
